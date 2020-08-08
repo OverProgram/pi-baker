@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/GPIOExample.dir/main.o  -o GPIOExample  -lPiBaker 
